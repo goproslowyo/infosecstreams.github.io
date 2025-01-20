@@ -1,15 +1,14 @@
-# InfoSec Streams
+# بث InfoSec
 
-Congrats! You've found an actively maintained list of Information Security-related Twitch streams. This list is `sorted` based on `30-day activity` to help you find active streams more easily!
+تهانينا! لقد وجدت قائمة محدثة باستمرار لبث Twitch المتعلق بأمن المعلومات. هذه القائمة `مرتبة` حسب `النشاط خلال 30 يومًا` لمساعدتك في العثور على البث النشط بسهولة!
 
-Streamers that haven't had activity in the last month are moved to the [inactive streamers](/inactive) page.
+البث الذي لم يكن له نشاط في الشهر الماضي تم نقله إلى صفحة [البث غير النشط](/ar/inactive).
 
-Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+لديك أسئلة؟ مساهمات؟ شيء آخر؟ يرجى قراءة [الأسئلة الشائعة](/ar/faq)!
 
-## List of Streams (sorted) <a href="#" class="btn" id="settings-button">Settings</a>
+## قائمة البث (مرتبة) <a href="#" class="btn" id="settings-button">الإعدادات</a>
 
 &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i>
----: | --- | :--- | :---
 &nbsp; | `FixIt42` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/FixIt42) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@FixIt42) |
 &nbsp; | `B7H30` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/B7H30) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theo6580) |
 &nbsp; | `TheShyHat` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheShyHat) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theshyhat) |
@@ -79,19 +78,21 @@ Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 &nbsp; | `Security_Live` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Security_Live) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCMDy1HAPNcpl8zVTK1NfMqw) |
 &nbsp; | `IC_null` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/IC_null) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UC7uLYSknPG3pATnbhYyXE5g) |
 
-### Credits
+---: | --- | :--- | :---
 
-This project is a community effort but [GoProSlowYo](https://twitch.tv/goproslowyo) currently maintains all the golang code in [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), and [this](https://github.com/infosecstreams/infosecstreams.github.io) repo.
+### الاعتمادات
 
-Shoutout to [chadb_n00b](https://twitch.tv/chadb_n00b) for starting up and maintaining the original [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml)!
+هذا المشروع هو جهد مجتمعي ولكن [GoProSlowYo](https://twitch.tv/goproslowyo) يقوم حاليًا بصيانة جميع أكواد golang في [secinfo](https://github.com/infosecstreams/secinfo) و [streamstatus](https://github.com/infosecstreams/streamstatus) و [هذا](https://github.com/infosecstreams/infosecstreams.github.io) المستودع.
 
-### Resources
+شكر خاص لـ [chadb_n00b](https://twitch.tv/chadb_n00b) لبدء وصيانة [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) الأصلية!
 
-Here are [some great resources](/resources) for your hacking journey.
+### الموارد
 
-### Contribute or Report an Issue
+هنا [بعض الموارد الرائعة](/ar/resources) لرحلتك في الاختراق.
 
-Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+### المساهمة أو الإبلاغ عن مشكلة
+
+هل تواجه مشكلة مع رابط؟ الموقع لا يتحدث بشكل صحيح؟ أسئلة؟ مساهمات؟ شيء آخر؟ يرجى قراءة [الأسئلة الشائعة](/ar/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>

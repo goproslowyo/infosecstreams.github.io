@@ -1,15 +1,14 @@
-# InfoSec Streams
+# Streams InfoSec
 
-Congrats! You've found an actively maintained list of Information Security-related Twitch streams. This list is `sorted` based on `30-day activity` to help you find active streams more easily!
+Félicitations ! Vous avez trouvé une liste activement maintenue des streams Twitch liés à la Sécurité de l'Information. Cette liste est `triée` en fonction de l'`activité sur 30 jours` pour vous aider à trouver plus facilement les streams actifs !
 
-Streamers that haven't had activity in the last month are moved to the [inactive streamers](/inactive) page.
+Les streamers qui n'ont pas eu d'activité au cours du dernier mois sont déplacés vers la page des [streamers inactifs](/fr/inactive).
 
-Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+Des questions ? Des contributions ? Autre chose ? Veuillez lire la [FAQ](/fr/faq) !
 
-## List of Streams (sorted) <a href="#" class="btn" id="settings-button">Settings</a>
+## Liste des Streams (triée) <a href="#" class="btn" id="settings-button">Paramètres</a>
 
 &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i>
----: | --- | :--- | :---
 &nbsp; | `FixIt42` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/FixIt42) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@FixIt42) |
 &nbsp; | `B7H30` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/B7H30) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theo6580) |
 &nbsp; | `TheShyHat` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheShyHat) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theshyhat) |
@@ -79,19 +78,21 @@ Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 &nbsp; | `Security_Live` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Security_Live) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCMDy1HAPNcpl8zVTK1NfMqw) |
 &nbsp; | `IC_null` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/IC_null) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UC7uLYSknPG3pATnbhYyXE5g) |
 
-### Credits
+---: | --- | :--- | :---
 
-This project is a community effort but [GoProSlowYo](https://twitch.tv/goproslowyo) currently maintains all the golang code in [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), and [this](https://github.com/infosecstreams/infosecstreams.github.io) repo.
+### Crédits
 
-Shoutout to [chadb_n00b](https://twitch.tv/chadb_n00b) for starting up and maintaining the original [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml)!
+Ce projet est un effort communautaire mais [GoProSlowYo](https://twitch.tv/goproslowyo) maintient actuellement tout le code golang dans [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), et [ce](https://github.com/infosecstreams/infosecstreams.github.io) dépôt.
 
-### Resources
+Un grand merci à [chadb_n00b](https://twitch.tv/chadb_n00b) pour avoir lancé et maintenu la [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) originale !
 
-Here are [some great resources](/resources) for your hacking journey.
+### Ressources
 
-### Contribute or Report an Issue
+Voici [quelques excellentes ressources](/fr/resources) pour votre parcours dans le hacking.
 
-Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+### Contribuer ou Signaler un Problème
+
+Des problèmes avec un lien ? Le site ne se met pas à jour correctement ? Des questions ? Des contributions ? Autre chose ? Veuillez lire la [FAQ](/fr/faq) !
 
 <script src="./js/sort.js" async="" defer=""></script>
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>

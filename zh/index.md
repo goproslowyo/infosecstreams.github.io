@@ -1,15 +1,14 @@
-# InfoSec Streams
+# InfoSec 直播
 
-Congrats! You've found an actively maintained list of Information Security-related Twitch streams. This list is `sorted` based on `30-day activity` to help you find active streams more easily!
+恭喜！您找到了一个活跃维护的信息安全相关 Twitch 直播列表。此列表根据`30天活跃度`进行`排序`，帮助您更轻松地找到活跃的直播！
 
-Streamers that haven't had activity in the last month are moved to the [inactive streamers](/inactive) page.
+过去一个月没有活动的主播已被移至[非活跃主播](/zh/inactive)页面。
 
-Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+有问题？想贡献？其他事项？请阅读[常见问题](/zh/faq)！
 
-## List of Streams (sorted) <a href="#" class="btn" id="settings-button">Settings</a>
+## 直播列表（已排序） <a href="#" class="btn" id="settings-button">设置</a>
 
 &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i>
----: | --- | :--- | :---
 &nbsp; | `FixIt42` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/FixIt42) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@FixIt42) |
 &nbsp; | `B7H30` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/B7H30) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theo6580) |
 &nbsp; | `TheShyHat` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheShyHat) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theshyhat) |
@@ -79,19 +78,21 @@ Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 &nbsp; | `Security_Live` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Security_Live) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCMDy1HAPNcpl8zVTK1NfMqw) |
 &nbsp; | `IC_null` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/IC_null) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UC7uLYSknPG3pATnbhYyXE5g) |
 
-### Credits
+---: | --- | :--- | :---
 
-This project is a community effort but [GoProSlowYo](https://twitch.tv/goproslowyo) currently maintains all the golang code in [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), and [this](https://github.com/infosecstreams/infosecstreams.github.io) repo.
+### 致谢
 
-Shoutout to [chadb_n00b](https://twitch.tv/chadb_n00b) for starting up and maintaining the original [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml)!
+这是一个社区项目，但 [GoProSlowYo](https://twitch.tv/goproslowyo) 目前维护着 [secinfo](https://github.com/infosecstreams/secinfo)、[streamstatus](https://github.com/infosecstreams/streamstatus) 和[本](https://github.com/infosecstreams/infosecstreams.github.io)仓库中的所有 golang 代码。
 
-### Resources
+特别感谢 [chadb_n00b](https://twitch.tv/chadb_n00b) 创建并维护原始的 [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml)！
 
-Here are [some great resources](/resources) for your hacking journey.
+### 资源
 
-### Contribute or Report an Issue
+这里有一些[很棒的资源](/zh/resources)供您的黑客之旅使用。
 
-Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+### 贡献或报告问题
+
+链接有问题？网站更新不正常？有问题？想贡献？其他事项？请阅读[常见问题](/zh/faq)！
 
 <script src="./js/sort.js" async="" defer=""></script>
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>

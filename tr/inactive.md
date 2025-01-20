@@ -1,11 +1,10 @@
-# Inactive InfoSec Streams
+# Aktif Olmayan InfoSec Yayınları
 
-Hey there! This page contains streamers that have not streamed in the last month.
+Merhaba! Bu sayfa son bir ay içinde yayın yapmamış yayıncıları içerir.
 
-## Streams
+## Yayınlar
 
 <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>
---: | ---
 `0reoByte` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0reoByte) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@0reoByt3)
 `0xBufu` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xBufu) &nbsp;
 `0xCardinal` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xCardinal) &nbsp;
@@ -252,15 +251,17 @@ Hey there! This page contains streamers that have not streamed in the last month
 `YERTX_CO` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/YERTX_CO) &nbsp;
 `zerobandwidth` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/zerobandwidth) &nbsp;
 
-### Credits
+--: | ---
 
-This project is a community effort but [GoProSlowYo](https://twitch.tv/goproslowyo) currently maintains all the golang code in [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), and [this](https://github.com/infosecstreams/infosecstreams.github.io) repo.
+### Katkıda Bulunanlar
 
-Shoutout to [chadb_n00b](https://twitch.tv/chadb_n00b) for starting up and maintaining the original [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml)!
+Bu proje bir topluluk çabasıdır ancak [GoProSlowYo](https://twitch.tv/goproslowyo) şu anda [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus) ve [bu](https://github.com/infosecstreams/infosecstreams.github.io) depodaki tüm golang kodlarını yönetmektedir.
 
-### Contribute or Report an Issue
+[chadb_n00b](https://twitch.tv/chadb_n00b)'a orijinal [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml)'i başlattığı ve sürdürdüğü için teşekkürler!
 
-Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+### Katkıda Bulunun veya Sorun Bildirin
+
+Bir bağlantıyla ilgili sorun mu yaşıyorsunuz? Site düzgün güncellenmiyor mu? Sorularınız mı var? Katkıda bulunmak mı istiyorsunuz? Başka bir şey mi var? Lütfen [SSS](/tr/faq) sayfasını okuyun!
 
 <script src="./js/sort.js" async="" defer=""></script>
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>
