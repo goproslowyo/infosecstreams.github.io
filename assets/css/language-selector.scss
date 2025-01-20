@@ -1,0 +1,60 @@
+.language-selector {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+
+.language-button {
+  background: #151515;
+  color: #b5e853;
+  border: 1px solid #b5e853;
+  padding: 8px 15px;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  
+  &:hover {
+    background: #252525;
+  }
+  
+  .caret {
+    font-size: 10px;
+  }
+}
+
+.language-menu {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background: #151515;
+  border: 1px solid #b5e853;
+  border-top: none;
+  width: 200px;
+  
+  &.show {
+    display: block;
+  }
+  
+  a {
+    color: #b5e853;
+    padding: 8px 15px;
+    text-decoration: none;
+    display: block;
+    
+    &:hover {
+      background: #252525;
+    }
+    
+    &.active {
+      background: #0d0d0d;
+      &:hover {
+        background: #1d1d1d;
+      }
+    }
+  }
+}

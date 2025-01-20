@@ -1,13 +1,22 @@
-name: Sort index.md by 30-day Activity
+name: Generate Multi-Language Pages
 
 on:
   push:
     branches:
       - main
+      - dev
+  pull_request:
+    branches:
+      - main
+      - dev
   schedule:
     - cron: "07 11 * * *" # 11am GMT / 4am PT
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to run workflow on'
+        required: true
+        default: 'dev'
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -16,8 +25,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    env:
+      LANGUAGES: "ar de es fr hi it pt-br tr zh"
     steps:
       - uses: actions/checkout@v3
         name: Checkout repository
@@ -25,15 +36,56 @@ jobs:
       - name: Login to registry
         run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
 
-      - name: Get streaming activity
-        run: docker run -v $PWD/templates:/app/templates -v $PWD/index.md:/app/index.md -v $PWD/inactive.md:/app/inactive.md -v $PWD/streamers.csv:/app/streamers.csv ghcr.io/infosecstreams/secinfo:latest
-
-      - name: Commit index.md
+      - name: Generate English pages and extract tables
         run: |
-          current_time=$(date +"%Y-%m-%d")
+          # Generate English pages with streamer data
+          docker run -v $PWD/templates:/app/templates -v $PWD/index.md:/app/index.md -v $PWD/inactive.md:/app/inactive.md -v $PWD/streamers.csv:/app/streamers.csv ghcr.io/infosecstreams/secinfo:latest
+
+          # Extract active streamers table (including header and specifiers until ### Credits)
+          sed -n '/<i class="fas fa-headset/,/### Credits/p' index.md | sed '/### Credits/d' > active_table.txt
+
+          # Extract inactive streamers table (including header and specifiers until ### Credits)
+          sed -n '/<i class="fas fa-headset/,/### Credits/p' inactive.md | sed '/### Credits/d' > inactive_table.txt
+
+      - name: Generate language pages
+        run: |
+          # Function to generate language pages
+          generate_lang_pages() {
+            set -exuo pipefail
+            local lang=$1
+            mkdir -p $lang
+
+            # Generate index page
+            cat "templates/index.$lang.tmpl.md" > "$lang/index.md"
+            # Replace the table section (header + specifiers) with extracted content for index
+            sed -i '/<i class="fas fa-headset/,/^---: | --- | :--- | :---$/c\<i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | &nbsp; | &nbsp;\n---: | --- | :--- | :---' "$lang/index.md"
+            # Append table content after specifiers
+            sed -i '/^---: | --- | :--- | :---$/r active_table.txt' "$lang/index.md"
+
+            # Generate inactive page
+            cat "templates/inactive.$lang.tmpl.md" > "$lang/inactive.md"
+            # Replace the table section (header + specifiers) with extracted content
+            sed -i '/<i class="fas fa-headset/,/^--: | ---$/c\<i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>\n--: | ---' "$lang/inactive.md"
+            # Append table content after specifiers
+            sed -i '/^--: | ---$/r inactive_table.txt' "$lang/inactive.md"
+          }
+
+          # Generate pages for each language
+          for lang in $LANGUAGES; do
+            generate_lang_pages "$lang"
+          done
+
+      - name: Update sitemap
+        run: |
           awk -f .github/workflows/replace_lastmod_sort.awk sitemap.xml | tee sitemap_new.xml && mv sitemap_new.xml sitemap.xml
+
+      - name: Commit changes
+        run: |
+          set -exuo pipefail
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add index.md inactive.md sitemap.xml
-          git commit -am "🤖 Updated and sorted markdown files"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          # Add language directories dynamically
+          LANG_DIRS=$(for lang in $LANGUAGES; do echo -n "$lang/ "; done)
+          git add index.md inactive.md sitemap.xml $LANG_DIRS
+          git commit -am "🤖 Updated and sorted markdown files" || echo "No changes to commit"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git || (echo "You'll need to grant 'Read and write' permissions for workflows to push to this repository. Please visit the following URL to adjust the permissions: https://github.com/${GITHUB_REPOSITORY}/settings/actions" && false)

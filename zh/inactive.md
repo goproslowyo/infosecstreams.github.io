@@ -5,9 +5,12 @@
 ## 非活跃直播列表
 
 <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>
+<<<<<<< HEAD
 --: | ---
 <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>
 --: | ---
+=======
+>>>>>>> e4846a75f (Add language updates, first pass)
 `0reoByte` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0reoByte) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@0reoByt3)
 `0xBufu` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xBufu) &nbsp;
 `0xCardinal` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xCardinal) &nbsp;
@@ -254,6 +257,10 @@
 `YERTX_CO` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/YERTX_CO) &nbsp;
 `zerobandwidth` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/zerobandwidth) &nbsp;
 
+<<<<<<< HEAD
+=======
+--: | ---
+>>>>>>> e4846a75f (Add language updates, first pass)
 
 ### 致谢
 
