@@ -5,6 +5,9 @@ Voici une liste des streamers qui n'ont pas eu d'activité au cours des 30 derni
 ## Liste des Streams Inactifs
 
 <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>
+--: | ---
+<i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>
+--: | ---
 `0reoByte` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0reoByte) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@0reoByt3)
 `0xBufu` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xBufu) &nbsp;
 `0xCardinal` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xCardinal) &nbsp;
@@ -251,7 +254,6 @@ Voici une liste des streamers qui n'ont pas eu d'activité au cours des 30 derni
 `YERTX_CO` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/YERTX_CO) &nbsp;
 `zerobandwidth` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/zerobandwidth) &nbsp;
 
---: | ---
 
 ### Crédits
 
