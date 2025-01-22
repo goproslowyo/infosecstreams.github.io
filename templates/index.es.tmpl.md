@@ -1,6 +1,7 @@
 # Streams de InfoSec
 
-¡Felicitaciones! Has encontrado una lista actualizada activamente de streams de Twitch relacionados con la Seguridad de la Información. ¡Esta lista está `ordenada` según la `actividad de 30 días` para ayudarte a encontrar streams activos más fácilmente!
+
+¡Felicidades! Has descubierto una lista actualizada en tiempo real con streams de Twitch sobre la Seguridad Informática. La lista está organizada según la actividad de los últimos 30 días, para que te sea más fácil encontrar streams activos.
 
 Los streamers que no han tenido actividad en el último mes se han movido a la página de [streamers inactivos](/es/inactive).
 
@@ -13,9 +14,9 @@ Los streamers que no han tenido actividad en el último mes se han movido a la p
 
 ### Créditos
 
-Este proyecto es un esfuerzo comunitario pero [GoProSlowYo](https://twitch.tv/goproslowyo) actualmente mantiene todo el código golang en [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), y [este](https://github.com/infosecstreams/infosecstreams.github.io) repositorio.
+Este proyecto es un esfuerzo comunitario. [GoProSlowYo](https://twitch.tv/goproslowyo) actualmente mantiene todo el código golang en [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), y [este](https://github.com/infosecstreams/infosecstreams.github.io) repositorio.
 
-¡Agradecimiento especial a [chadb_n00b](https://twitch.tv/chadb_n00b) por iniciar y mantener la [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) original!
+¡Agradecimiento especial a [chadb_n00b](https://twitch.tv/chadb_n00b) por iniciar y mantener el [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) original!
 
 ### Recursos
 
