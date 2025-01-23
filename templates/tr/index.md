@@ -92,7 +92,7 @@ Hacking yolculuğunuz için [bazı harika kaynaklar](/tr/resources) burada.
 
 Bir bağlantıyla ilgili sorun mu yaşıyorsunuz? Site düzgün güncellenmiyor mu? Sorularınız mı var? Katkıda bulunmak mı istiyorsunuz? Başka bir şey mi var? Lütfen [SSS](/tr/faq) sayfasını okuyun!
 
-<script src="/js/sort.js" async="" defer=""></script>
+<script src="./js/sort.js" async="" defer=""></script>
 
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>
 
