@@ -219,14 +219,14 @@
 |                     `Super_uzer` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Super_uzer) &nbsp;                                                                                                                          |
 |                     `systemdeez` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/systemdeez) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@systemdeez)                                 |
 |             `المترجمين الفوريين` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TechnologyInterpreters) &nbsp;                                                                                                              |
-|                     `techryptic` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/techryptic) &nbsp;                                                                                                                          |
-|                     `Th3lazykid` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Th3lazykid) &nbsp;                                                                                                                          |
+|                   \`التكنوقراطي' | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/techryptic) &nbsp;                                                                                                                          |
+|                      `ث3lazykid` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Th3lazykid) &nbsp;                                                                                                                          |
 |                   `TheAKElement` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheAKElement) &nbsp;                                                                                                                        |
 |                 `TheBlindHacker` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheBlindHacker) &nbsp;                                                                                                                      |
 |                  `theedmiroshow` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/theedmiroshow) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theedmiroshow)                           |
 |                `TheGoodHackerTV` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheGoodHackerTV) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCeeOzvMFfd2qcUFIGN_Nzyw)       |
 |                        `Thegwar` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Thegwar) &nbsp;                                                                                                                             |
-|                 `TheHackerMaker` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheHackerMaker) &nbsp;                                                                                                                      |
+|                  `TheackerMaker` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheHackerMaker) &nbsp;                                                                                                                      |
 |                       `TheLabda` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheLabda) &nbsp;                                                                                                                            |
 |                     `TheMayor11` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheMayor11) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UC5J6JvH5F29FllbLjwmA5ZA)            |
 |                     `TheRealLrk` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheRealLrk) &nbsp;                                                                                                                          |
@@ -239,16 +239,16 @@
 |                           `Tr_H` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Tr_H) &nbsp;                                                                                                                                |
 |                        `TsarSec` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TsarSec) &nbsp;                                                                                                                             |
 |                  `tyler_ramsbey` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/tyler_ramsbey) &nbsp;                                                                                                                       |
-|                `UndecidedFlavor` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/UndecidedFlavor) &nbsp;                                                                                                                     |
-|                    `UnPentester` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/UnPentester) &nbsp;                                                                                                                         |
+|                     \`بدون مقرر' | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/UndecidedFlavor) &nbsp;                                                                                                                     |
+|                        \`المفرد' | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/UnPentester) &nbsp;                                                                                                                         |
 |                        `vale624` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/vale624) &nbsp;                                                                                                                             |
 |                  `VandalTheGrey` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/VandalTheGrey) &nbsp;                                                                                                                       |
 |             `vxunderground_live` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/vxunderground_live) &nbsp;                                                                                                                  |
-|                         `Westar` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Westar) &nbsp;                                                                                                                              |
+|                         `ويستار` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Westar) &nbsp;                                                                                                                              |
 |                `xHackThePlanetx` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/xHackThePlanetx) &nbsp;                                                                                                                     |
 |                        `xN0Px90` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/xN0Px90) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UClBupMnkD1oZ49_xBbiUKBg)               |
 |                       `xThalach` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/xThalach) &nbsp;                                                                                                                            |
-|                 `xThe_Developer` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/xThe_Developer) &nbsp;                                                                                                                      |
+|                 `xThe_developer` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/xThe_Developer) &nbsp;                                                                                                                      |
 |                    `xychelsea87` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/xychelsea87) &nbsp;                                                                                                                         |
 |                       `YERTX_CO` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/YERTX_CO) &nbsp;                                                                                                                            |
 |                  `zerobandwidth` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/zerobandwidth) &nbsp;                                                                                                                       |
@@ -259,9 +259,9 @@
 
 شكر خاص لـ [chadb_n00b](https://twitch.tv/chadb_n00b) لبدء وصيانة [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) الأصلية!
 
-### Contribute or Report an Issue
+### المساهمة أو الابلاغ عن مشكلة
 
-Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+هل تواجه مشكلة مع الرابط؟ لم يتم تحديث الموقع بشكل صحيح؟ أسئلة؟ المساهمات؟ شيء آخر؟ يرجى قراءة [FAQ](/faq)!
 
 <script src="../js/sort.js" async="" defer=""></script>
 
