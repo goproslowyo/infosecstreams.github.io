@@ -13,13 +13,13 @@ Los streamers que no han tenido actividad en el último mes se han movido a la p
 
 ### Créditos
 
-Este proyecto es un esfuerzo comunitario pero [GoProSlowYo](https://twitch.tv/goproslowyo) actualmente mantiene todo el código golang en [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), y [este](https://github.com/infosecstreams/infosecstreams.github.io) repositorio.
+Este proyecto es un esfuerzo comunitario pero [GoProSlowYo](https://twitch.tv/goproslowyo) actualmente mantiene todo el código Golang en [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), y [este](https://github.com/infosecstreams/infosecstreams.github.io) repositorio.
 
 ¡Agradecimiento especial a [chadb_n00b](https://twitch.tv/chadb_n00b) por iniciar y mantener la [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) original!
 
 ### Recursos
 
-Aquí hay [algunos recursos excelentes](/es/resources) para tu viaje en el hacking.
+Aquí hay [algunos recursos excelentes](/es/resources) para tu aventura en el hacking.
 
 ### Contribuir o Reportar un Problema
 
