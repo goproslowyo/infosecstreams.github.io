@@ -41,11 +41,11 @@ jobs:
           # Generate English pages with streamer data
           docker run -v $PWD/templates:/app/templates -v $PWD/index.md:/app/index.md -v $PWD/inactive.md:/app/inactive.md -v $PWD/streamers.csv:/app/streamers.csv ghcr.io/infosecstreams/secinfo:latest
 
-          # Extract active streamers table (including header and specifiers until ### Credits)
-          sed -n '/<i class="fas fa-headset/,/### Credits/p' index.md | sed '/### Credits/d' > active_table.txt
+          # Extract active streamers table (including header and specifiers until the first ###)
+          sed -n '/<i class="fas fa-headset/,/^### /p' index.md | sed '/^### /d' > active_table.txt
 
-          # Extract inactive streamers table (including header and specifiers until ### Credits)
-          sed -n '/<i class="fas fa-headset/,/### Credits/p' inactive.md | sed '/### Credits/d' > inactive_table.txt
+          # Extract inactive streamers table (including header and specifiers until the first ###)
+          sed -n '/<i class="fas fa-headset/,/^### /p' inactive.md | sed '/^### /d' > inactive_table.txt
 
       - name: Generate language pages
         run: |
