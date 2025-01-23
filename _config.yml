@@ -18,7 +18,6 @@ plugins:
 
 # Multilingual SEO (Top global languages + Active streaming languages)
 languages:
-  # Active Streaming Languages
   - code: en
     name: English
     description: "Live Cybersecurity Streams | TryHackMe & HTB Walkthroughs | Red Team & Blue Team Training | Ethical Hacking Tutorials"
@@ -37,7 +36,6 @@ languages:
   - code: it
     name: Italiano
     description: "Stream di Cybersecurity dal Vivo | Tutorial di Hacking Etico | Sfide CTF | Penetration Testing"
-  # Additional Top Global Languages
   - code: zh
     name: 中文
     description: "网络安全直播 | 道德黑客教程 | CTF挑战赛 | 渗透测试培训 | 网络安全工具演示"
@@ -47,6 +45,9 @@ languages:
   - code: ar
     name: العربية
     description: "بث مباشر للأمن السيبراني | دروس الاختراق الأخلاقي | تحديات CTF | اختبار الاختراق"
+  - code: de
+    name: Deutsch
+    description: "Live-Cybersecurity-Streams | TryHackMe & HTB Walkthroughs | Red Team & Blue Team Training | Ethik-Hacking-Tutorials"
 
 # SEO Keywords by Language
 keywords:
@@ -131,3 +132,12 @@ keywords:
   - تدريب الفريق الأزرق
   - تحديات CTF
   - اختبار الاختراق
+  # German (DE)
+  - cybersecurity streams
+  - ethical hacking live
+  - TryHackMe Walkthroughs
+  - HTB streams
+  - Red Team Training
+  - Blue Team Training
+  - CTF Challenges
+  - Penetration Testing
