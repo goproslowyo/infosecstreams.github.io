@@ -1,4 +1,4 @@
-# InfoSec-Streams
+# InfoSec Streams
 
 Glückwunsch! Du hast eine aktiv gepflegte Liste von Twitch-Streamern zum Thema Informationssicherheit gefunden. Diese Liste ist `sortiert` basierend auf der `30-Tage-Aktivität`, sie hilft dir aktive Streamer leichter zu finden!
 
