@@ -92,7 +92,7 @@ Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
-<script src="/js/sort.js" async="" defer=""></script>
+<script src="./js/sort.js" async="" defer=""></script>
 
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>
 
