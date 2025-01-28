@@ -1,12 +1,12 @@
-# Stream InfoSec
+# Streams de InfoSec
 
-Congratulazioni! Hai trovato una lista costantemente aggiornata di stream Twitch relativi alla Sicurezza Informatica. Questa lista è `ordinata` in base all'`attività degli ultimi 30 giorni` per aiutarti a trovare più facilmente gli stream attivi!
+Parabéns! Você encontrou uma lista ativamente mantida de streams da Twitch relacionadas à Segurança da Informação. Esta lista é `ordenada` com base na `atividade dos últimos 30 dias` para ajudar você a encontrar streams ativos mais facilmente!
 
-Gli streamer che non hanno avuto attività nell'ultimo mese sono spostati nella pagina degli [streamer inattivi](/it/inactive).
+Streamers que não tiveram atividade no último mês são movidos para a página de [streamers inativos](/pt/inactive).
 
-Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
+Perguntas? Contribuições? Algo mais? Por favor, leia o [FAQ](/pt/faq)!
 
-## Lista degli Stream (ordinata) <a href="#" class="btn" id="settings-button">Impostazioni</a>
+## Lista de Streams (ordenada) <a href="#" class="btn" id="settings-button">Configurações</a>
 
 <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | &nbsp; | &nbsp;
 ---: | --- | :--- | :---
@@ -87,14 +87,14 @@ Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 | &nbsp; | `GoProSlowYo`                  | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/GoProSlowYo) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCEvTMFvV92XCBhMwQbHWzeg?sub_confirmation=1) |                                     |
 | &nbsp; | `het_tanis`                    | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/het_tanis) &nbsp;                                                                                                                                    |                                     |
 | &nbsp; | `B7H30`                        | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/B7H30) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theo6580)                                                 |                                     |
-|                         🟢 | `topklean`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/topklean) &nbsp;                                                                                                                                     | FR                                  |
+|                         🟢 | `topklean`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/topklean) &nbsp;                                                                                                                                     | Sex                                 |
 | &nbsp; | `NullObjectDev`                | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/NullObjectDev) &nbsp;                                                                                                                                |                                     |
 | &nbsp; | `BlaiseBits`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/BlaiseBits) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@blaisebits)                                          |                                     |
 | &nbsp; | `elprogramadorgt`              | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/elprogramadorgt) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCgirU6f4kiT5Yxba4QyI58Q)                |                                     |
 | &nbsp; | `pebl3`                        | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/pebl3) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/c/Pebble1)                                                 |                                     |
 | &nbsp; | `KiraSec`                      | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/KiraSec) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@JackintheD)                                             |                                     |
 | &nbsp; | `hack_smarter`                 | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/hack_smarter) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@TylerRamsbey)                                      |                                     |
-| &nbsp; | `team_whoami`                  | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/team_whoami) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@teamwhoami7726)                                     |                                     |
+| &nbsp; | `time_whoami`                  | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/team_whoami) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@teamwhoami7726)                                     |                                     |
 | &nbsp; | `CyberTechVibes`               | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/CyberTechVibes) &nbsp;                                                                                                                               |                                     |
 | &nbsp; | `pwncollege`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/pwncollege) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/c/pwncollege)                                         |                                     |
 | &nbsp; | `Whimmery`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Whimmery) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/c/Whimmery)                                             |                                     |
@@ -102,8 +102,8 @@ Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 | &nbsp; | `endingwithALI`                | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/endingwithALI) &nbsp;                                                                                                                                |                                     |
 | &nbsp; | `0xTib3rius`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xTib3rius) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/Tib3rius)                                             |                                     |
 | &nbsp; | `Anyascii`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Anyascii) &nbsp;                                                                                                                                     |                                     |
-| &nbsp; | `Hackavis`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Hackavis) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@Hackavis)                                              |                                     |
-| &nbsp; | `Cyber_Insicurezza`            | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Cyber_Insecurity) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)               |                                     |
+| &nbsp; | Hackavis\`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Hackavis) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@Hackavis)                                              |                                     |
+| &nbsp; | `Cyber_Insecurity`             | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Cyber_Insecurity) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)               |                                     |
 | &nbsp; | `ElPinguinoDeMario`            | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/ElPinguinoDeMario) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@ElPinguinoDeMario)                            |                                     |
 | &nbsp; | `LowLevelTV`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/LowLevelTV) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@LowLevelTV)                                          |                                     |
 | &nbsp; | `unhackerencapital`            | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/unhackerencapital) &nbsp;                                                                                                                            |                                     |
@@ -125,7 +125,7 @@ Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 | &nbsp; | `JohnHammond010`               | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/JohnHammond010) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)                 |                                     |
 | &nbsp; | `thecybermentor`               | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/thecybermentor) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)                 |                                     |
 | &nbsp; | `antisyphon`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/antisyphon) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCkFKiCm7dD0gsB4jqIdCuRQ)                     |                                     |
-| &nbsp; | `OffSecOfficial`               | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/OffSecOfficial) &nbsp;                                                                                                                               |                                     |
+| &nbsp; | `OffSecficial`                 | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/OffSecOfficial) &nbsp;                                                                                                                               |                                     |
 | &nbsp; | `CyberInfoHQ`                  | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/CyberInfoHQ) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@Cyber-Info)                                         |                                     |
 | &nbsp; | `NeWbieSec`                    | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/NeWbieSec) &nbsp;                                                                                                                                    |                                     |
 | &nbsp; | `DrSn1p3r_Sec`                 | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/DrSn1p3r_Sec) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://youtube.com/@drsn1p3r_sec)                                          |                                     |
@@ -136,9 +136,9 @@ Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 | &nbsp; | `CybersecurityGrowth`          | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/CybersecurityGrowth) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@cybersecuritygrowth)                        |                                     |
 | &nbsp; | `jrozner`                      | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/jrozner) &nbsp;                                                                                                                                      |                                     |
 | &nbsp; | `h4ck0rman`                    | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/h4ck0rman) &nbsp;                                                                                                                                    |                                     |
-| &nbsp; | `s1ren_official`               | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/s1ren_official) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](http://www.youtube.com/@sirensecurity)                                    |                                     |
+| &nbsp; | `s1ren_oficial`                | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/s1ren_official) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](http://www.youtube.com/@sirensecurity)                                    |                                     |
 | &nbsp; | `BCSecurity`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/BCSecurity) &nbsp;                                                                                                                                   |                                     |
-| &nbsp; | `IC_null`                      | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/IC_null) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UC7uLYSknPG3pATnbhYyXE5g)                        |                                     |
+| &nbsp; | IC_null\` | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/IC_null) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UC7uLYSknPG3pATnbhYyXE5g)                        |                                     |
 | &nbsp; | `jhaddix56`                    | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/jhaddix56) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@jhaddix)                                              |                                     |
 | &nbsp; | `Hackshobgoblin`               | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Hackshobgoblin) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@hackshobgoblin)                                  |                                     |
 | &nbsp; | `OALabsLive`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/OALabsLive) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/c/OALabs)                                             |                                     |
@@ -150,19 +150,19 @@ Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 | &nbsp; | `BrakeSec`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/BrakeSec) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/c/BDSPodcast)                                           |                                     |
 | &nbsp; | `Security_Live`                | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Security_Live) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCMDy1HAPNcpl8zVTK1NfMqw)                  |                                     |
 
-### Crediti
+### Créditos
 
-Questo progetto è uno sforzo della community ma [GoProSlowYo](https://twitch.tv/goproslowyo) attualmente mantiene tutto il codice golang in [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus) e [questo](https://github.com/infosecstreams/infosecstreams.github.io) repository.
+Este projeto é um esforço da comunidade, mas [GoProSlowYo](https://twitch.tv/goproslowyo) atualmente mantém todo o código golang em [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus) e [este](https://github.com/infosecstreams/infosecstreams.github.io) repositório.
 
-Un ringraziamento speciale a [chadb_n00b](https://twitch.tv/chadb_n00b) per aver avviato e mantenuto la [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) originale!
+Agradecimento especial ao [chadb_n00b](https://twitch.tv/chadb_n00b) por iniciar e manter a [hacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_YY0A7i8-E0mRXJmCZTxARcZPm77dAV7funlMadAK2SliG0sWfdRUMlQ3DQux7WfqKD_JuVa-1I73/pubhtml) original!
 
-### Risorse
+### Recursos
 
-Qui ci sono [alcune ottime risorse](/it/resources) per il tuo percorso di hacking.
+Aqui estão [alguns ótimos recursos](/pt/resources) para sua jornada de hacking.
 
-### Contribuisci o Segnala un Problema
+### Contribua ou Reporte um Problema
 
-Problemi con un link? Il sito non si aggiorna correttamente? Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
+Problemas com um link? Site não está atualizando corretamente? Perguntas? Contribuições? Algo mais? Por favor, leia o [FAQ](/pt/faq)!
 
 <<script src="./js/sort.js" async="" defer=""></script>
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>
