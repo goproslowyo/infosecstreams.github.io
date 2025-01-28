@@ -26,7 +26,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     env:
-      LANGUAGES: "ar de es fr hi it pt-br tr zh"
+      LANGUAGES: "ar de es fr hi it pt tr zh"
     steps:
       - uses: actions/checkout@v3
         name: Checkout repository

@@ -261,7 +261,7 @@ Agradecimento especial ao [chadb_n00b](https://twitch.tv/chadb_n00b) por iniciar
 
 ### Contribua ou Reporte um Problema
 
-Problemas com um link? Site não está atualizando corretamente? Perguntas? Contribuições? Algo mais? Por favor, leia o [FAQ](/pt-br/faq)!
+Problemas com um link? Site não está atualizando corretamente? Perguntas? Contribuições? Algo mais? Por favor, leia o [FAQ](/pt/faq)!
 
 <script src="../js/sort.js" async="" defer=""></script>
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>

@@ -25,7 +25,7 @@ languages:
   - code: es
     name: Español
     description: "Streams de Ciberseguridad en Vivo | Tutoriales de Hacking Ético | Desafíos CTF | Pentesting"
-  - code: pt-br
+  - code: pt
     name: Português (Brasil)
     description: "Streams de Cibersegurança ao Vivo | Tutoriais de Hacking Ético | Desafios CTF | Testes de Penetração"
   - code: fr
@@ -68,7 +68,7 @@ keywords:
   - formazione blue team
   - sfide CTF
   - penetration testing
-  # Brazilian Portuguese (PT-BR)
+  # Brazilian Portuguese (pt)
   - streams de cibersegurança
   - hacking ético ao vivo
   - tutoriais TryHackMe
