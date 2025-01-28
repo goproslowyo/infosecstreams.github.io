@@ -1,13 +1,11 @@
-name: Generate Multi-Language Pages
+name: Sort index.md by 30-day Activity
 
 on:
   push:
     branches:
       - main
-      - dev
   pull_request:
     branches:
-      - main
       - dev
   schedule:
     - cron: "07 11 * * *" # 11am GMT / 4am PT
@@ -19,10 +17,10 @@ on:
         default: 'dev'
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Also, cancel in-progress runs as we want to allow the latest deployment to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -56,14 +54,14 @@ jobs:
             mkdir -p $lang
 
             # Generate index page
-            cat "templates/index.$lang.tmpl.md" > "$lang/index.md"
+            cat "templates/$lang/index.md" > "$lang/index.md"
             # Replace the table section (header + specifiers) with extracted content for index
             sed -i '/<i class="fas fa-headset/,/^---: | --- | :--- | :---$/c\<i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | &nbsp; | &nbsp;\n---: | --- | :--- | :---' "$lang/index.md"
             # Append table content after specifiers
             sed -i '/^---: | --- | :--- | :---$/r active_table.txt' "$lang/index.md"
 
             # Generate inactive page
-            cat "templates/inactive.$lang.tmpl.md" > "$lang/inactive.md"
+            cat "templates/$lang/inactive.md" > "$lang/inactive.md"
             # Replace the table section (header + specifiers) with extracted content
             sed -i '/<i class="fas fa-headset/,/^--: | ---$/c\<i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>\n--: | ---' "$lang/inactive.md"
             # Append table content after specifiers
