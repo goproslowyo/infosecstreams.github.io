@@ -8,8 +8,8 @@ Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 
 ## Lista degli Stream (ordinata) <a href="#" class="btn" id="settings-button">Impostazioni</a>
 
-| &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i>                                                                                                                                                                                                             | <i class="fas fa-comment-dots"></i> |
-| -------------------------: | ------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- |
+&nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i>
+---: | --- | :--- | :---
 | &nbsp; | `FixIt42`                      | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/FixIt42) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@FixIt42)                                                |                                     |
 | &nbsp; | `TheShyHat`                    | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/TheShyHat) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@theshyhat)                                            |                                     |
 | &nbsp; | `GoProSlowYo`                  | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/GoProSlowYo) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCEvTMFvV92XCBhMwQbHWzeg?sub_confirmation=1) |                                     |
@@ -92,12 +92,8 @@ Qui ci sono [alcune ottime risorse](/it/resources) per il tuo percorso di hackin
 
 Problemi con un link? Il sito non si aggiorna correttamente? Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 
-<script src="./js/sort.js" async="" defer=""></script>
-
+<<script src="./js/sort.js" async="" defer=""></script>
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/brands.min.js" integrity="sha512-KYlRezs7yAa59UnX6zAvY7I96Te02kycQn02Sr6FU/fBpxcXAwumRe5DHVrqVnWTt9HY/PktrAPZzSe9UE1Yxg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/solid.min.js" integrity="sha512-apZ8JDL5kA1iqvafDdTymV4FWUlJd8022mh46oEMMd/LokNx9uVAzhHk5gRll+JBE6h0alB2Upd3m+ZDAofbaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/fontawesome.min.js" integrity="sha512-c41hNYfKMuxafVVmh5X3N/8DiGFFAV/tU2oeNk+upk/dfDAdcbx5FrjFOkFhe4MOLaKlujjkyR4Yn7vImrXjzQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
