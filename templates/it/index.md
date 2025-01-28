@@ -31,7 +31,7 @@ Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 | &nbsp; | `0xTib3rius`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/0xTib3rius) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/Tib3rius)                                             |                                     |
 | &nbsp; | `Anyascii`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Anyascii) &nbsp;                                                                                                                                     |                                     |
 | &nbsp; | `Hackavis`                     | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Hackavis) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@Hackavis)                                              |                                     |
-| &nbsp; | `Cyber_Insecurity`             | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Cyber_Insecurity) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)               |                                     |
+| &nbsp; | `Cyber_Insicurezza`            | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/Cyber_Insecurity) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)               |                                     |
 | &nbsp; | `ElPinguinoDeMario`            | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/ElPinguinoDeMario) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@ElPinguinoDeMario)                            |                                     |
 | &nbsp; | `LowLevelTV`                   | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/LowLevelTV) &nbsp; [<i class="fab fa-youtube" style="color:#C00"></i>](https://www.youtube.com/@LowLevelTV)                                          |                                     |
 | &nbsp; | `unhackerencapital`            | [<i class="fab fa-twitch" style="color:#9146FF"></i>](https://www.twitch.tv/unhackerencapital) &nbsp;                                                                                                                            |                                     |
@@ -92,7 +92,7 @@ Qui ci sono [alcune ottime risorse](/it/resources) per il tuo percorso di hackin
 
 Problemi con un link? Il sito non si aggiorna correttamente? Domande? Contributi? Altro? Per favore leggi le [FAQ](/it/faq)!
 
-<script src="/js/sort.js" async="" defer=""></script>
+<script src="./js/sort.js" async="" defer=""></script>
 
 <script defer data-domain="infosecstreams.github.io" src="https://p.infosecstreams.com/js/plausible.outbound-links.js"></script>
 
