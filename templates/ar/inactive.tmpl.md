@@ -1,8 +1,8 @@
 # البث غير النشط
 
-مرحبًا! This page contains streamers that have not streamed in the last month.
+مرحبًا! تحتوي هذه الصفحة على تبزيلات لم تبث في الشهر الماضي.
 
-## Streams
+## البث
 
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
 | -----------------------------: | ---------------------------------------- |
@@ -15,7 +15,7 @@
 
 ### المساهمة أو الابلاغ عن مشكلة
 
-هل تواجه مشكلة مع الرابط؟ Site not updating properly? أسئلة؟ المساهمات؟ شيء آخر؟ Please read the [FAQ](/faq)!
+هل تواجه مشكلة مع الرابط؟ لم يتم تحديث الموقع بشكل صحيح؟ أسئلة؟ المساهمات؟ شيء آخر؟ يرجى قراءة [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
