@@ -1,11 +1,11 @@
 # Streams de InfoSec Inativos
 
-Olá! Esta página contém streamers que não transmitiram no último mês.
+Hey there! This page contains streamers that have not streamed in the last month.
 
 ## Transmissões
 
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
-| -----------------------------: | ---------------------------------------- |
+| --: | --- |
 
 ### Créditos
 
@@ -15,7 +15,7 @@ Agradecimento especial ao [chadb_n00b](https://twitch.tv/chadb_n00b) por iniciar
 
 ### Contribua ou Reporte um Problema
 
-Problemas com um link? Site não está atualizando corretamente? Perguntas? Contribuições? Algo mais? Por favor, leia o [FAQ](/pt-br/faq)!
+Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
