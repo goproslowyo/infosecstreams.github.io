@@ -1,11 +1,11 @@
 # Inaktive InfoSec-Streams
 
-Hallo! Diese Seite enthält Streamer, die im letzten Monat nicht gestreamt wurden.
+
 
 ## Streams
 
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
-| -----------------------------: | ---------------------------------------- |
+| --: | --- |
 
 ### Credits
 
@@ -15,7 +15,7 @@ Shoutout an [chadb_n00b](https://twitch.tv/chadb_n00b) zum Starten und Instandha
 
 ### Beitrag oder melde ein Problem
 
-Haben Sie Probleme mit einem Link? Site nicht richtig aktualisiert? Fragen? Beiträge? Etwas anderes? Bitte lesen Sie die [FAQ](/faq)!
+
 
 <script src="./js/sort.js" async="" defer=""></script>
 
