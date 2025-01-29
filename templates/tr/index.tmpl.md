@@ -1,15 +1,15 @@
 # InfoSec Yayınları
 
-Tebrikler! Aktif olarak güncellenen Bilgi Güvenliği ile ilgili Twitch yayınları listesini buldunuz. Bu liste, aktif yayınları daha kolay bulmanız için `30 günlük aktiviteye` göre `sıralanmıştır`!
+Congrats! You've found an actively maintained list of Information Security-related Twitch streams. This list is `sorted` based on `30-day activity` to help you find active streams more easily!
 
 Son bir ay içinde aktivitesi olmayan yayıncılar [aktif olmayan yayıncılar](/tr/inactive) sayfasına taşınmıştır.
 
-Sorularınız mı var? Katkıda bulunmak mı istiyorsunuz? Başka bir şey mi var? Lütfen [SSS](/tr/faq) sayfasını okuyun!
+Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 ## Yayın Listesi (sıralı) <a href="#" class="btn" id="settings-button">Ayarlar</a>
 
 | &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i> |
-| -------------------------: | ------------------------------ | :--------------------------------------- | :---------------------------------- |
+| --: | --- | :-- | :-- |
 
 ### Credits
 
@@ -23,7 +23,7 @@ Hacking yolculuğunuz için [bazı harika kaynaklar](/tr/resources) burada.
 
 ### Katkıda Bulunun veya Sorun Bildirin
 
-Bir bağlantıyla ilgili sorun mu yaşıyorsunuz? Site düzgün güncellenmiyor mu? Sorularınız mı var? Katkıda bulunmak mı istiyorsunuz? Başka bir şey mi var? Lütfen [SSS](/tr/faq) sayfasını okuyun!
+Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
