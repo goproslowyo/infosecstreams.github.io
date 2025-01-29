@@ -1,15 +1,15 @@
 # 信息流
 
-恭喜！ 您已经找到一个活跃的 Twitch 信息安全流列表。 这个列表是基于 \`30天活动' 排序的，以帮助您更容易地找到活动流！
+恭喜！您已经找到一个活跃的与信息安全相关的 Twitch 流列表。 这个列表是基于 \`30天活动' 排序的，以帮助您更容易地找到活动流！
 
 Streamers that haven't had activity in the last month are moved to the [inactive streamers](/inactive) page.
 
-有问题？ 贡献？ 还有什么东西？ 请阅读 [FAQ](/faq)！
+有问题？贡献？还有什么问题？请阅读 [FAQ](/faq)！
 
 ## 流列表(排序) <a href="#" class="btn" id="settings-button">设置</a>
 
 | &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i> |
-| -------------------------: | ------------------------------ | :--------------------------------------- | :---------------------------------- |
+| --: | --- | :-- | :-- |
 
 ### 致谢
 
@@ -23,7 +23,7 @@ Streamers that haven't had activity in the last month are moved to the [inactive
 
 ### 贡献或报告问题
 
-链接有问题吗？ 站点更新不正确？ 有问题？ 贡献？ 还有什么东西？ 请阅读 [FAQ](/faq)！
+链接有问题？网站更新不正确？有问题？贡献？还有什么问题？请阅读 [FAQ](/faq)！
 
 <script src="./js/sort.js" async="" defer=""></script>
 
