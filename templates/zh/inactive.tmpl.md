@@ -1,6 +1,6 @@
 # 非活跃主播
 
-Hey there! This page contains streamers that have not streamed in the last month.
+你好！这个页面包含未在上个月流中流入。
 
 ## 流
 
@@ -15,7 +15,7 @@ Hey there! This page contains streamers that have not streamed in the last month
 
 ### 贡献或报告问题
 
-Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
+链接有问题？网站更新不正确？有问题？贡献？还有什么问题？请阅读 [FAQ](/faq)！
 
 <script src="./js/sort.js" async="" defer=""></script>
 
