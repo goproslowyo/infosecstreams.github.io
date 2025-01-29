@@ -9,7 +9,7 @@ Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 ## स्ट्रीम्स की सूची (क्रमबद्ध) <a href="#" class="btn" id="settings-button">सेटिंग्स</a>
 
 | &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i> |
-| -------------------------: | ------------------------------ | :--------------------------------------- | :---------------------------------- |
+| --: | --- | :-- | :-- |
 
 ### क्रेडिट्स
 
