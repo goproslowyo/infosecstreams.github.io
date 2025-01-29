@@ -1,15 +1,15 @@
 # Streams de InfoSec
 
-¡Felicitaciones! Has encontrado una lista actualizada activamente de streams de Twitch relacionados con la Seguridad de la Información. ¡Esta lista está `ordenada` según la `actividad de 30 días` para ayudarte a encontrar streams activos más fácilmente!
+¡Enhorabuena! Has encontrado una lista de flujos de Twitch relacionados con la seguridad de la información. Esta lista está `ordenada` basada en `actividad de 30 días` para ayudarte a encontrar streams activos más fácilmente!
 
 Los streamers que no han tenido actividad en el último mes se han movido a la página de [streamers inactivos](/es/inactive).
 
-¿Preguntas? ¿Contribuciones? ¿Algo más? ¡Por favor lee las [FAQ](/es/faq)!
+¿Preguntas? ¿Contribuciones? ¿Algo más? ¡Por favor lee la [FAQ](/faq)!
 
 ## Lista de Teams (ordenada) <0>Configuración</0>
 
 | &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i> |
-| -------------------------: | ------------------------------ | :--------------------------------------- | :---------------------------------- |
+| --: | --- | :-- | :-- |
 
 ### Créditos
 
@@ -23,7 +23,7 @@ Aquí hay [algunos recursos excelentes](/es/resources) para tu aventura en el ha
 
 ### Contribuir o Reportar un Problema
 
-¿Problemas con un enlace? ¿El sitio no se actualiza correctamente? ¿Preguntas? ¿Contribuciones? ¿Algo más? ¡Por favor lee las [FAQ](/es/faq)!
+¿Tienes problemas con un enlace? ¿El sitio no se actualiza correctamente? ¿Preguntas? ¿Contribuciones? ¿Algo más? Por favor lee la [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
