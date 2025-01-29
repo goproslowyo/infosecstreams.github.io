@@ -1,6 +1,6 @@
 # Streamers Inactivos
 
-
+¡Hola! Esta página contiene streamers que no han transmitido en el último mes.
 
 ## Flujos
 
@@ -15,7 +15,7 @@ Este proyecto es un esfuerzo comunitario pero [GoProSlowYo](https://twitch.tv/go
 
 ### Contribuye o reporta un problema
 
-
+¿Tienes problemas con un enlace? ¿El sitio no se actualiza correctamente? ¿Preguntas? ¿Contribuciones? ¿Algo más? Por favor lee la [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
