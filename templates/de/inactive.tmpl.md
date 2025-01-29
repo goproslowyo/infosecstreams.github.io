@@ -1,6 +1,6 @@
 # Inaktive InfoSec-Streams
 
-
+Hallo! Diese Seite enthält Streamer die im letzten Monat nicht gestreamt wurden.
 
 ## Streams
 
@@ -15,7 +15,7 @@ Shoutout an [chadb_n00b](https://twitch.tv/chadb_n00b) zum Starten und Instandha
 
 ### Beitrag oder melde ein Problem
 
-
+Haben sie probleme mit einem Link? Website nicht richtig aktualisieren? Fragen? Beiträge? Etwas anderes? Bitte lesen Sie die [FAQ](/de/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
