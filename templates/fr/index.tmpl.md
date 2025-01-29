@@ -1,15 +1,15 @@
 # Streams InfoSec
 
-Félicitations ! Vous avez trouvé une liste activement maintenue des streams Twitch liés à la Sécurité de l'Information. Cette liste est `triée` en fonction de l'`activité sur 30 jours` pour vous aider à trouver plus facilement les streams actifs !
+Félicitations ! Vous avez trouvé une liste de flux Twitch activement maintenue en relation avec la sécurité de l'information. Cette liste est `triée` en fonction de `30 jours` pour vous aider à trouver plus facilement les flux actifs!
 
 Les streamers qui n'ont pas eu d'activité au cours du dernier mois sont déplacés vers la page des [streamers inactifs](/fr/inactive).
 
-Des questions ? Des contributions ? Autre chose ? Veuillez lire la [FAQ](/fr/faq) !
+Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 ## Liste des Streams (triée) <a href="#" class="btn" id="settings-button">Paramètres</a>
 
 | &nbsp; | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> | <i class="fas fa-comment-dots"></i> |
-| -------------------------: | ------------------------------ | :--------------------------------------- | :---------------------------------- |
+| --: | --- | :-- | :-- |
 
 ### Crédits
 
@@ -23,7 +23,7 @@ Voici [quelques bonnes ressources] (/resources) pour votre voyage de piratage.
 
 ### Contribuer ou Signaler un Problème
 
-Des problèmes avec un lien ? Le site ne se met pas à jour correctement ? Des questions ? Des contributions ? Autre chose ? Veuillez lire la [FAQ](/fr/faq) !
+Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
