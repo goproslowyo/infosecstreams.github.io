@@ -1,13 +1,13 @@
 # Streamers Inactivos
 
-¡Hola! This page contains streamers that have not streamed in the last month.
+¡Hola! Esta página contiene streamers que no han transmitido en el último mes.
 
-## Streams
+## Flujos
 
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
 | -----------------------------: | ---------------------------------------- |
 
-### Credits
+### Créditos
 
 Este proyecto es un esfuerzo comunitario pero [GoProSlowYo](https://twitch.tv/goproslowyo) actualmente mantiene todo el código golang en [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus), y [este](https://github.com/infosecstreams/infosecstreams.github.io) repositorio.
 
@@ -15,7 +15,7 @@ Este proyecto es un esfuerzo comunitario pero [GoProSlowYo](https://twitch.tv/go
 
 ### Contribuye o reporta un problema
 
-¿Tienes problemas con un enlace? Site not updating properly? ¿Preguntas? ¿Contribuciones? ¿Algo más? Please read the [FAQ](/faq)!
+¿Tienes problemas con un enlace? Sitio no actualizado correctamente? ¿Preguntas? ¿Contribuciones? ¿Algo más? ¡Por favor, lee la [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
