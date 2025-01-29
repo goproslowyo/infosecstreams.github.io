@@ -1,15 +1,15 @@
 # InfoSec Streams
 
-Glückwunsch! Du hast eine aktiv gepflegte Liste von Twitch-Streamern zum Thema Informationssicherheit gefunden. Diese Liste ist `sortiert` basierend auf der `30-Tage-Aktivität`, sie hilft dir aktive Streamer leichter zu finden!
+Glückwunsch! Sie haben eine aktiv gepflegte Liste von Twitch-Streams im Bereich Informationssicherheit gefunden. Diese Liste ist `sorted` basierend auf `30-day activity` um dir zu helfen, aktive Streams einfacher zu finden!
 
 Streamer, die im letzten Monat nicht aktiv waren, werden auf die Seite [inaktive Streamer](/de/inactive) verschoben.
 
-Fragen? Beiträge? Sonstiges? Bitte lese das [FAQ](/de/faq)!
+Fragen? Beiträge? Etwas anderes? Bitte lesen Sie die [FAQ](/faq)!
 
 ## Liste der Streamer (sortiert) <0›Einstellungen‹/0>
 
 | &nbsp; | <i class="fas fa-headset"> </i> | <i class="fas fa-external-link-alt"> </i> | <i class="fas fa-comment-dots"> </i> |
-| -------------------------: | ------------------------------- | :---------------------------------------- | :----------------------------------- |
+| --: | --- | :-- | :-- |
 
 ### Danksagung
 
@@ -23,7 +23,7 @@ Hier sind [einige großartige Ressourcen](/de/Ressourcen) für Ihre Hacking-Reis
 
 ### Einen Beitrag leisten oder ein Problem melden
 
-Probleme mit einem Link? Website wird nicht richtig aktualisiert? Fragen? Beiträge? Sonstiges? Bitte lese das [FAQ](/faq)!
+Haben Sie Probleme mit einem Link? Website nicht richtig aktualisieren? Fragen? Beiträge? Etwas anderes? Bitte lesen Sie die [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
