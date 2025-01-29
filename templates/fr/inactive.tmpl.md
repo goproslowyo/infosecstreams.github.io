@@ -1,6 +1,6 @@
 # Streamers Inactifs
 
-
+Bonjour ! Cette page contient des streamers qui n'ont pas été diffusés au cours du mois dernier.
 
 ## Streams
 
@@ -15,7 +15,7 @@ Un grand merci à [chadb_n00b](https://twitch.tv/chadb_n00b) pour avoir lancé e
 
 ### Contribuer ou signaler un problème
 
-
+Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
