@@ -1,6 +1,6 @@
 # Streams de InfoSec Inativos
 
-Hey there! This page contains streamers that have not streamed in the last month.
+Olá! Esta página contém streamers que não foram transmitidos no último mês.
 
 ## Transmissões
 
