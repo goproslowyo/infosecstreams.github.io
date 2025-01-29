@@ -1,11 +1,11 @@
 # 非活跃主播
 
-你好！ 此页面包含了上个月未流出的串流。
+Hey there! This page contains streamers that have not streamed in the last month.
 
 ## 流
 
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
-| -----------------------------: | ---------------------------------------- |
+| --: | --- |
 
 ### 致谢
 
@@ -15,7 +15,7 @@
 
 ### 贡献或报告问题
 
-链接有问题吗？ 站点更新不正确？ 有问题？ 贡献？ 还有什么东西？ 请阅读 [FAQ](/faq)！
+Having trouble with a link? Site not updating properly? Questions? Contributions? Something else? Please read the [FAQ](/faq)!
 
 <script src="./js/sort.js" async="" defer=""></script>
 
