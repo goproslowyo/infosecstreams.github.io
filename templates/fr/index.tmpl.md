@@ -23,7 +23,7 @@ Voici [quelques bonnes ressources] (/resources) pour votre voyage de piratage.
 
 ### Contribuer ou Signaler un Problème
 
-Des problèmes avec un lien ? Le site ne se met pas à jour correctement ? Des questions ? Des contributions ? Autre chose ? Please read the [FAQ](/faq)!
+Des problèmes avec un lien ? Le site ne se met pas à jour correctement ? Des questions ? Des contributions ? Autre chose ? Veuillez lire la [FAQ](/fr/faq) !
 
 <script src="./js/sort.js" async="" defer=""></script>
 
