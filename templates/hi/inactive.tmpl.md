@@ -5,7 +5,7 @@ Hey there! This page contains streamers that have not streamed in the last month
 ## निष्क्रिय स्ट्रीम्स की सूची
 
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
-| -----------------------------: | ---------------------------------------- |
+| --: | --- |
 
 ### क्रेडिट्स
 
