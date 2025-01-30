@@ -1,13 +1,13 @@
 # Inaktive InfoSec-Streams
 
-Hallo! Diese Seite enthält Streamer die im letzten Monat nicht gestreamt wurden.
+Hallo! Diese Seite enthält Streamer, die im letzten Monat nicht gestreamt wurden.
 
 ## Streams
 
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
 | --: | --- |
 
-### Danksagung
+### Credits
 
 Dieses Projekt ist ein Gemeinschaftsprojekt, aber [GoProSlowYo](https://twitch.tv/goproslowyo) verwaltet derzeit den gesamten Golang Code in den Repos [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus) und [this](https://github.com/infosecstreams/infosecstreams.github.io).
 
@@ -15,7 +15,7 @@ Shoutout an [chadb_n00b](https://twitch.tv/chadb_n00b) zum Starten und Instandha
 
 ### Beitrag oder melde ein Problem
 
-Haben sie probleme mit einem Link? Website nicht richtig aktualisieren? Fragen? Beiträge? Etwas anderes? Bitte lesen Sie die [FAQ](/de/faq)!
+Haben Sie Probleme mit einem Link? Site nicht richtig aktualisiert? Fragen? Beiträge? Etwas anderes? Bitte lesen Sie die [FAQ](/faq)!
 
 <script src="https://infosecstreams.com/js/sort.js" async="" defer=""></script>
 
