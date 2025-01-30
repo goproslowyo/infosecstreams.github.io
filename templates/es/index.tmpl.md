@@ -1,6 +1,6 @@
 # Streams de InfoSec
 
-¡Felicidades! Has descubierto una lista actualizada en tiempo real con streams de Twitch sobre la Seguridad Informática. ¡La lista está `organizada` según la `actividad de los últimos 30 días` para que te sea más fácil encontrar streams activos!
+¡Felicitaciones! Has encontrado una lista actualizada activamente de streams de Twitch relacionados con la Seguridad de la Información. ¡Esta lista está `ordenada` según la `actividad de 30 días` para ayudarte a encontrar streams activos más fácilmente!
 
 Los streamers que no han tenido actividad en el último mes se han movido a la página de [streamers inactivos](/es/inactive).
 
