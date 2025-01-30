@@ -1,6 +1,6 @@
 # 信息流
 
-恭喜！您已经找到一个活跃的与信息安全相关的 Twitch 流列表。 这个列表是基于 \\`30天活动' 排序的，以帮助您更容易地找到活动流！
+恭喜！您已经找到一个活跃的与信息安全相关的 Twitch 流列表。 这个列表是基于 \\\`30天活动' 排序的，以帮助您更容易地找到活动流！
 
 Streamers that haven't had activity in the last month are moved to the [inactive streamers](/inactive) page.
 
