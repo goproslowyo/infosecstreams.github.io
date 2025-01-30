@@ -23,7 +23,7 @@ Streamers that haven't had activity in the last month are moved to the [inactive
 
 ### 贡献或报告问题
 
-链接有问题吗？ 站点更新不正确？ 有问题？ 贡献？ 还有什么东西？ 有问题？贡献？还有什么问题？请阅读 [FAQ](/zh/faq)！
+链接有问题？ 网站更新不正确？ 有问题？ 贡献？ 还有什么问题？ 请阅读 [FAQ](/zh/faq)！
 
 <script src="https://infosecstreams.com/js/sort.js" async="" defer=""></script>
 
