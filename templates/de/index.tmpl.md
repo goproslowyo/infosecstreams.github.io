@@ -6,7 +6,7 @@ Streamer, die im letzten Monat nicht aktiv waren, werden auf die Seite [inaktive
 
 Fragen? Beiträge? Sonstiges? Bitte lese das [FAQ](/de/faq)!
 
-## Liste der Streamer (sortiert) <a href="#" class="btn" id="settings-button">Einstellungen</a>
+## Liste der Streamer (sortiert) <0›Einstellungen‹/0>
 
 | &nbsp; | <i class="fas fa-headset"> </i> | <i class="fas fa-external-link-alt"> </i> | <i class="fas fa-comment-dots"> </i> |
 | --: | --- | :-- | :-- |
