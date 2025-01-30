@@ -1,6 +1,6 @@
 # InfoSec Streams
 
-Glückwunsch! Du hast eine aktiv gepflegte Liste von Twitch-Streamern zum Thema Informationssicherheit gefunden. Diese Liste ist `sortiert` basierend auf der `30-Tage-Aktivität`, sie hilft dir aktive Streamer leichter zu finden!
+Glückwunsch! Du hast eine aktiv gepflegte Liste von Twitch-Streamern zum Thema Informationssicherheit gefunden. Diese Liste ist `sortiert` basierend auf der `30-Tage-Aktivität` sie hilft dir aktive Streamer leichter zu finden!
 
 Streamer, die im letzten Monat nicht aktiv waren, werden auf die Seite [inaktive Streamer](/de/inactive) verschoben.
 
@@ -23,7 +23,7 @@ Hier sind [einige großartige Ressourcen](/de/Ressourcen) für Ihre Hacking-Reis
 
 ### Einen Beitrag leisten oder ein Problem melden
 
-Probleme mit einem Link? Website wird nicht richtig aktualisiert? Fragen? Beiträge? Sonstiges? Bitte lese das [FAQ](/faq)!
+Haben Sie Probleme mit einem Link? Website nicht richtig aktualisieren? Fragen? Beiträge? Etwas anderes? Bitte lese das [FAQ](/de/faq)!
 
 <script src="https://infosecstreams.com/js/sort.js" async="" defer=""></script>
 
