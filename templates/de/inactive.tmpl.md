@@ -7,7 +7,7 @@ Hallo! Diese Seite enthält Streamer die im letzten Monat nicht gestreamt wurden
 | <i class="fas fa-headset"></i> | <i class="fas fa-external-link-alt"></i> |
 | --: | --- |
 
-### Danksagung
+### Credits
 
 Dieses Projekt ist ein Gemeinschaftsprojekt, aber [GoProSlowYo](https://twitch.tv/goproslowyo) verwaltet derzeit den gesamten Golang Code in den Repos [secinfo](https://github.com/infosecstreams/secinfo), [streamstatus](https://github.com/infosecstreams/streamstatus) und [this](https://github.com/infosecstreams/infosecstreams.github.io).
 
